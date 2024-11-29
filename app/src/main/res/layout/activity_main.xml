@@ -138,6 +138,7 @@
         app:layout_constraintStart_toStartOf="@+id/gl_login_start"
         android:layout_marginTop="50dp"
         android:textStyle="bold"
+        android:gravity="center"
         android:background="@drawable/background_butt"
         android:text="@string/sign_in"
         android:textColor="@color/white"
